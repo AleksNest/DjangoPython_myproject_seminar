@@ -33,7 +33,7 @@ CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'alex202330.pythonanywhere.com',
+    'alexalex2023.pythonanywhere.com',
 ]
 
 
